@@ -1,0 +1,15 @@
+deltaPositionX          dw 2
+deltaPositionY          dw 2
+
+deltaArmsHeight         dw 1
+
+deltaLegsHeight         dw -2
+
+deltaEarHeight          dw 1
+
+deltaTopTailHeight      dw 1
+
+centerCounter           dw MAX_CENTER_COUNTER
+
+
+deltaBirdPositionY      dw -1

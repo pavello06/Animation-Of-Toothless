@@ -1,0 +1,4 @@
+include 'FrontHead\FrontHead.id'
+include 'SideHead\SideHead.id'
+
+earHeight	dw 8

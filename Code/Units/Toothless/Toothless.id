@@ -1,0 +1,9 @@
+include 'Arms\Arms.id'
+include 'Legs\Legs.id'
+include 'Body\Body.id'
+include 'Head\Head.id'
+include 'Tail\Tail.id'
+
+positionX               dw MIN_POSITION_X
+positionY               dw MIN_POSITION_Y
+absoluteDirection       dw 0

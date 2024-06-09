@@ -1,0 +1,3 @@
+include 'Circle\Circle.id'
+include 'Parabola\Parabola.id' 
+include 'Rectangle\Rectangle.id'

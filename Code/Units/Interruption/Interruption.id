@@ -1,0 +1,3 @@
+animationTicksLeft      dw MAX_ANIMATION_TICKS_LEFT
+musicTicksLeft          dw 1
+

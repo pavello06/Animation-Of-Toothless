@@ -1,0 +1,2 @@
+BODY_WIDTH      = 20
+BODY_HEIGHT     = 80
